@@ -263,7 +263,7 @@ print(fruitsUnion)
 fruitsIntersection = fruitsA & fruitsB #intersection
 print(fruitsIntersection)
 
-fruitsDifference = fruitsA - fruitsB #difference
+fruitsDifference = fruitsA - fruitsB # difference
 print(fruitsDifference)
 
 # SUBSET
